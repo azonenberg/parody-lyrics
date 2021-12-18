@@ -1,0 +1,47 @@
+Still Online
+Tune: Still Alive by Jonathan Coulton and GLaDOS
+
+Background info:
+This is the story of a CS major at RPI and the trials and tribulations of debugging his code.
+Russell Sage College is an all-female school across town without much in the way of science or engineering programs.
+
+This was a segfault! I'm making a note here... SIGSEGV.
+	It's hard to overstate my stack corruption!
+
+RPI comp sci... we do what we must, because we can
+	for the good of all of us (except the ones who flunked out)
+But there's no sense crying over every bad grade
+	you just keep on trying till you get your degree
+And the coding gets done and you make a release
+	for the servers that are still online
+
+I'm not even angry. I'm being so sincere right now.
+	Even though you DOSed my servers...
+Disabled my uplink...
+	And piped all my traffic to /dev/null
+As i watched, it hurt because
+	I was completely offline!
+
+Now these silicon atoms make a beautiful grid
+	and we're out of beta, we're releasing on time
+ So i'm glad i went here, think of all the things we learned
+	for the people still at RPI.
+
+Go ahead and leave me, I think I prefer to code alone.
+	Maybe you'll find someone else to dev with...
+Maybe Sage College... That was a joke. HAHA FAT CHANCE.
+
+Anyway this app is great. it's so responsive and quick!
+(Look at me still talking when there's coding to do)
+When i look up there it makes me glad i'm not you...
+	I've got MD sims to run, there is research to be done
+For the people who are still online
+
+And believe me I am still online
+	I feel fantastic and I am still online
+While you're coding I'll be still online...
+	and when you're asleep I'll be still online...
+
+Still online...
+
+Still online

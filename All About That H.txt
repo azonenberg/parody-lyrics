@@ -1,0 +1,88 @@
+"All About That /h/"
+Tune: "All About That Bass" by Meghan Trainor
+
+Background:
+Not all PCBs need to be 28 layer HDI beasts. Sometimes plain old FR4 can be beautiful in its own way.
+If you reduce the thickness /h/ of the dielectric between your transmission lines and the reference plane, in-plane
+signals will couple to each other less, reducing crosstalk.
+
+Because you know I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/... /h/... /h/... /h/
+
+Yeah, it's pretty clear, I ain't no eye mask
+But I can pass it, pass it like I'm supposed to do
+`Cause I got that trace trace that all the bits chase
+And all the right chips in all the right places
+
+I see the engineers workin' that Rogers stuff
+We know that shit ain't cheap, come on now, give it up
+If you got SERDES, SERDES, just raise 'em up
+`Cause every track of you is perfect from the striplines to the planes
+
+Yeah, my engineer told me "don't worry about your eye"
+(Shoo wop wop, sha-ooh wop wop)
+He says, "Chips like a little less voltage to equalize"
+(That signal, uh, that signal signal)
+You know I won't be no HDI blind via motherboard
+So if that's what you're into, then go 'head and move along
+
+Because you know I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/... Hey!
+
+I'm bringing prepreg back
+Go 'head and tell them fancy backplanes that
+No, I'm just playing, I know you think you're bad
+But I'm here to tell you...
+Every track of you is perfect from the striplines to the planes
+
+Yeah, my engineer told me "don't worry about your eye"
+(Shoo wop wop, sha-ooh wop wop)
+He says, "Chips like a little less voltage to equalize"
+(That signal, uh, that signal signal)
+You know I won't be no HDI blind via motherboard
+So if that's what you're into, then go 'head and move along
+
+Because you know I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/...
+
+You know I'm all about that /h/
+'Bout that /h/, no crosstalk
+I said I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/...
+
+Because you know I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/, no crosstalk
+I'm all about that /h/
+'Bout that /h/... Hey!
+I'm all about that /h/
+'Bout that /h/... Hey!
+I'm all about that /h/
+'Bout that /h/... Hey!
+
+Yeah yeah... oh... You know you like this /h/... Hey...

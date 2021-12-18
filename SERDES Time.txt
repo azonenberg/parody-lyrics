@@ -1,0 +1,66 @@
+SERDES Time
+Tune: Storytime by Nightwish
+
+Background info:
+This is the story of how buses inside computers transitioned from synchronous parallel buses to bonded high speed
+serial lanes with CDR.
+
+It was the days before
+When buses were parallel
+Clock skew, no speed
+Then one day
+Widmer at IBM
+Invented 8B/10B
+Took a journey into high speed serial
+
+A disk drive working group
+Imagined faster drives
+Within a cable of two pairs
+Unleashed from clock skew
+All storage, serial
+Disk drive bus catching up with high speed flash
+
+I am the DFE inside your eye
+Standing strong against your ISI
+I am the driver that is out of spec
+(Clock tree jitter from last decade's tech!)
+Every cable, every bus on board
+I am the SERDES diff pair, serial
+All the data that you hold dear
+
+I am the thumbdrive
+I am the PCI
+I am the disk
+The bus that holds you
+A way to reach the 'net
+The squiggly pairs
+Follow the buses
+SATA you know once did
+
+Serial all the time, layout engineer's dream!
+Length match the pairs
+And they will send your bits
+A network interface,
+a PCIe card
+The core of IO
+is a serial transceiver
+
+I am the DFE inside your eye
+Standing strong against your ISI
+I am the driver that is out of spec
+(Clock tree jitter from last decade's tech!)
+Every cable, every bus on board
+I am the SERDES diff pair, serial
+All the data that you hold dear
+
+I am the DFE inside your eye
+Standing strong against your ISI
+Searching FIR taps for the best response
+
+I am the DFE inside your eye
+Standing strong against your ISI
+I am the driver that is out of spec
+(Clock tree jitter from last decade's tech!)
+Every cable, every bus on board
+I am the SERDES diff pair, serial
+All the data that you hold dear

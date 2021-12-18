@@ -1,0 +1,44 @@
+Sleeping Sim
+Tune: Sleeping Sun by Nightwish
+
+Background info:
+This is the story of a signal integrity engineer running multi-hour EM field simulations to optimize performance of a
+design.
+
+Data is moving like a tide
+Once inside planar waveguide
+Copper traces routed best
+Through connectors laid to rest
+
+For my waves I tune the launch
+For edge shape I impedance match
+Packets at the end of line
+Flipping bits makes a crime
+
+I wish for S11
+Under -21
+EMI around me
+Edges of the PCB
+Oh how I wish for my sims to run fast
+Running
+Running
+All night
+
+SERDES with a laser heart
+From optics it will depart
+I'd send along a terabyte
+Never finding a bad bit
+
+Ten to the minus twelve BER
+Will be desired by the spec
+A moment for the ECC
+Until there's no flips to correct
+
+I wish for S11
+Under -21
+EMI around me
+Edges of the PCB
+Oh how I wish for my sims to run fast
+Running
+Running
+All night
