@@ -1,0 +1,50 @@
+The Sound of Crosstalk
+Tune: The Sound of Silence by Simon and Garfunkel
+
+Background info:
+The lament of a PCB design engineer plagued by crosstalk and other electromagnetic compatibility (EMC) issues.
+
+Hello crosstalk, my old friend
+I've come to fight with you again
+Because a field line softly creeping
+Left microstrip while I was testing
+And the waveform I was sending through my board
+Still remains... it is the sound of crosstalk
+
+In restless days I probed alone
+Nearby striplines, coupled tones
+'Neath the halo of an H-field loop
+I turned my specan to the board and hoped
+
+When my graphs were stabbed
+By the peak of a coupled tone
+Standing alone
+It was the sound of crosstalk
+
+And in Part Fifteen mode I saw
+Ten dB over, maybe more
+Radiating without antennas
+Resonating without intending
+
+SERDES sending bits
+That nothing ever sees
+No one can hear
+Over the sound of crosstalk
+
+"Fools" said I, "you do not know
+Crosstalk like a cancer grows
+Terminate, or I will reflect you
+Slow your slew that I might reach you"
+But my bits like silent raindrops fell
+Drowned out by all the noise of crosstalk
+
+And engineers bowed and prayed
+To pass Part Fifteen today
+And the lab sent out its retort
+It was still a failing report
+
+And the lab said
+"The noise of the clock
+Is ringing from the chamber walls
+And power falls"
+And whispered in the sound of crosstalk
