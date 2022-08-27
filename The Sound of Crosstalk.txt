@@ -4,8 +4,8 @@ Tune: The Sound of Silence by Simon and Garfunkel
 Background info:
 The lament of a PCB design engineer plagued by crosstalk and other electromagnetic compatibility (EMC) issues.
 
-Hello crosstalk, my old friend
-I've come to fight with you again
+Hello Maxwell, my old friend
+I've come to talk with you again
 Because a field line softly creeping
 Left microstrip while I was testing
 And the waveform I was sending through my board
