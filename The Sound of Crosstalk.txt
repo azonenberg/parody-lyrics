@@ -1,5 +1,5 @@
 The Sound of Crosstalk
-Tune: The Sound of Silence by Simon and Garfunkel (modified for the musicality and lyricality of Disturbed's cover) 
+Tune: The Sound of Silence by Simon and Garfunkel (modified to work better with Disturbed's cover) 
 
 Background info:
 The lament of a PCB design engineer plagued by crosstalk and other electromagnetic compatibility (EMC) issues.
