@@ -18,7 +18,7 @@ Near striplines; coupled tones
 I tuned my spec-an to find the noise
 
 When my plots were razed
-By the ring from the rising edge
+By the ring from a rising edge
 That closed the eye 
 It was the sound of crosstalk
 
