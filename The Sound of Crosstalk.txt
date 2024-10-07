@@ -1,50 +1,50 @@
-The Sound of Crosstalk
-Tune: The Sound of Silence by Simon and Garfunkel
+The Sound of Crosstalk V 2.1.0
+From The Sound of Silence by Simon and Garfunkel
 
-Background info:
-The lament of a PCB design engineer plagued by crosstalk and other electromagnetic compatibility (EMC) issues.
+Lyrics :  Andrew Zonenberg & M Pang (USA)
+Vocals : Berzan Önen (Turkey)
+Instrumental : Matt Welch (Australia)
 
 Hello Maxwell, my old friend
-I've come to talk with you again
-Because a field line softly creeping
-Left microstrip while I was testing
-And the waveform I was sending through my board
-Still remains... it is the sound of crosstalk
+I've come to talk with you again 
+Because a current, softly creeping
+Strayed its path while I was sweeping
+And the problem that I'd buried in a plane
+Still remains 
+Within the sound of crosstalk
 
-In restless days I probed alone
-Nearby striplines, coupled tones
-'Neath the halo of an H-field loop
-I turned my specan to the board and hoped
+Through restless nights I probed alone 
+Near striplines; -- coupled tones
+'Neath the halo of a field probe
+I searched my traces for the source unknown
 
-When my graphs were stabbed
-By the peak of a coupled tone
-Standing alone
+When my plots were struck
+By the ring of harmonics odd 
+That closed the eye
 It was the sound of crosstalk
 
-And in Part Fifteen mode I saw
-Ten dB over, maybe more
-Radiating without antennas
-Resonating without intending
-
+And in the chamber test I saw
+Peaks that spiked by ten or more
+Symbols shifting without meaning
+Signals dropping without warning
 SERDES sending bits
-That nothing ever sees
-No one can hear
-Over the sound of crosstalk
+That errors never spare
+And no one dared
+Defy the sound of crosstalk
 
-"Fools" said I, "you do not know
-Crosstalk like a cancer grows
-Terminate, or I will reflect you
+"Fools," said I, "you do not know
+Fields spread like a cancer grows
+Hear my words that I might teach you
 Slow your slew that I might reach you"
-But my bits like silent raindrops fell
-Drowned out by all the noise of crosstalk
+But my symbols, like silent raindrops fell
+And echoed in the hells of crosstalk
 
-And engineers bowed and prayed
-To pass Part Fifteen today
-And the lab sent out its retort
-It was still a failing report
+Countless experts swept and prayed
+But the EM fields betrayed
+And the BERT flashed out its warning
+'Bout the link that it was dropping
 
-And the lab said
-"The noise of the clock
-Is ringing from the chamber walls
-And power falls"
-And whispered in the sound of crosstalk
+And the BERT said
+"The codes of the prophets are twisted by jitter's thrall"
+Link margin falls
+Words buried in the sound of crosstalk
