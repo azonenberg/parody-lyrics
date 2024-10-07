@@ -1,51 +1,50 @@
-The Sound of Crosstalk
-Tune: The Sound of Silence by Simon and Garfunkel (modified to work better with Disturbed's cover) 
+The Sound of Crosstalk V 2.1.0
+From The Sound of Silence by Simon and Garfunkel
 
-Background info:
-The lament of a PCB design engineer plagued by crosstalk and other electromagnetic compatibility (EMC) issues.
+Lyrics :  Andrew Zonenberg & M Pang (USA)
+Vocals : Berzan Önen (Turkey)
+Instrumental : Matt Welch (Australia)
 
 Hello Maxwell, my old friend
-I've come to talk with you again
-Because a field line, softly creeping,
-Raised its edge while I was sweeping
-And the signal that I'd buried in a plane
+I've come to talk with you again 
+Because a current, softly creeping
+Strayed its path while I was sweeping
+And the problem that I'd buried in a plane
 Still remains 
 Within the sound of crosstalk
 
-Through restless nights I probed alone
-Near striplines; coupled tones
+Through restless nights I probed alone 
+Near striplines; -- coupled tones
 'Neath the halo of a field probe
-I tuned my spec-an to find the noise
+I searched my traces for the source unknown
 
-When my plots were razed
-By the ring from a rising edge
-That closed the eye 
+When my plots were struck
+By the ring of harmonics odd 
+That closed the eye
 It was the sound of crosstalk
 
 And in the chamber test I saw
 Peaks that spiked by ten or more
-Signals speaking without meaning
-Fields leaking without grounding
-
+Symbols shifting without meaning
+Signals dropping without warning
 SERDES sending bits
-That nothing ever sees
-and no one heard 
-over the sound of crosstalk
+That errors never spare
+And no one dared
+Defy the sound of crosstalk
 
-"Fools" said I, "you do not know
-Crosstalk like a cancer grows
+"Fools," said I, "you do not know
+Fields spread like a cancer grows
 Hear my words that I might teach you
 Slow your slew that I might reach you"
-But my bits, like silent raindrops fell
+But my symbols, like silent raindrops fell
 And echoed in the hells of crosstalk
 
-And the experts swept and prayed
+Countless experts swept and prayed
 But the EM fields betrayed
 And the BERT flashed out its warning
-Bout the link that it was dropping
+'Bout the link that it was dropping
 
 And the BERT said
 "The codes of the prophets are twisted by jitter's thrall"
-And margin falls
+Link margin falls
 Words buried in the sound of crosstalk
-
