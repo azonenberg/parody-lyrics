@@ -34,7 +34,8 @@ narrow depth of field so the computer is slightly blurred, but no so much that i
 presence of CAD software on the display.
 
 SINGER: Hello Maxwell, my old friend
-I've come to talk with you again
+
+SINGER: I've come to talk with you again
 
 CUT TO next scene
 
@@ -64,7 +65,8 @@ A male figure is standing in front of the equipment, not blocking the view of ei
 center of his face.
 
 SINGER: ... I was sweeping
-And the...
+
+SINGER: And the...
 
 CUT TO next scene
 
@@ -153,8 +155,10 @@ CUT TO next scene
 Screen capture of an oscilloscope showing an almost completely closed eye pattern
 
 SINGER: By the ring of harmonics odd
-That closed the eye
-It was the sound...
+
+SINGER: That closed the eye
+
+SINGER: It was the sound...
 
 ## INT. RF CHAMBER - LATER (16)
 
@@ -240,7 +244,8 @@ CUT TO next scene
 Same framing as scene 21
 
 SINGER: "Fools," said I, "you do not know
-Fields spread like a cancer grows
+
+SINGER: Fields spread like a cancer grows
 
 CUT TO next scene
 
@@ -307,7 +312,8 @@ CUT TO next scene
 Same setup as scene 26
 
 SINGER: 'Bout the link that it was dropping
-And the BERT said
+
+SINGER: And the BERT said
 
 ## INT. LABORATORY BENCH - LATER (32)
 
