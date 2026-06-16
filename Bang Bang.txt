@@ -1,0 +1,20 @@
+"Bang Bang"
+Tune: "Bang Bang" by Jessie J, Ariana Grande, Nicki Minaj
+
+Background:
+Fancy PID controllers are excessive for some applications. Just make a binary correction instead.
+
+PID control loops are just great
+But I can fit in less than half the gates
+They got so little of that overshoot
+But I don't need expensive analog, oh
+
+You've been waiting for that
+Step on up, write your code
+See, PID loops would get the job done
+You need a cheap way to keep phase lock, yeah
+
+Bang-bang CDR locked (I know you want it)
+Bang-bang cheap control loop (I'll let you have it)
+Just wait a minute, let me lock your phase (ah)
+And wait a minute 'til you (link, up!)

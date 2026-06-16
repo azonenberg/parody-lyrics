@@ -1,0 +1,20 @@
+"CMP"
+Tune: "Let It Be" by The Beatles
+
+Background:
+Chemical-mechanical polishing is an important step in CMOS wafer fabrication used to ensure a flat surface as well as to
+work around copper's inability to be plasma etched.
+
+When I find metal three features are blurring
+'plied Materials comes to me
+Flatten out my wafer
+CMP
+And in my hour of darkness
+Ceria flows out onto the pad
+Flatten out my wafer
+CMP
+
+CMP, CMP
+CMP, CMP
+Flatten out my wafer
+CMP
